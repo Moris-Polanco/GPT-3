@@ -1,6 +1,6 @@
 import openai
 import streamlit as st
-openai.api_key = st.secrets["SECRET_KEY"]
+openai.api_key = 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
 
 
 st.title('GPT-3')
